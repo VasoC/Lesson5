@@ -21,13 +21,34 @@
 }
 .box{
     padding-left: 180px;
+    padding-right: 181px;
 }
 .box2{
-    display: inline-block;
     width: 1260px;
     background-color: #FFFFFF;
+    padding-top: 90px;
 }
 .title2{
     width: 110px;
     color: #000000;
+}
+.text{
+    width: 438px;
+    color: #434343;
+}
+.display{
+    display: inline-block;
+    padding-top: 30px;
+}
+.display1{
+    display: inline-block;
+}
+.display1{
+    padding-top: 30px;
+}
+.title3{
+    padding-top: 30px;
+}
+.box3{
+    padding-top: 90.34px;
 }
