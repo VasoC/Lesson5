@@ -3,3 +3,31 @@
     margin: 0;
     box-sizing: border-box;
 }
+.box{
+    background-color: #F7F7F7;
+    width: 1440px;
+}
+.title1{
+    width: 294px;
+    color: #000000;
+    padding-bottom: 30px;
+}
+.box1{
+    padding-top: 91px;
+}
+.paragraph1{
+    width: 1079px;
+    color: #434343;
+}
+.box{
+    padding-left: 180px;
+}
+.box2{
+    display: inline-block;
+    width: 1260px;
+    background-color: #FFFFFF;
+}
+.title2{
+    width: 110px;
+    color: #000000;
+}
